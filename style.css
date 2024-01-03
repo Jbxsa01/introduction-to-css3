@@ -1,0 +1,45 @@
+/* Styles pour la balise body */
+body {
+    font-family: 'Arial', sans-serif; /* Changer la famille de police */
+    font-size: 16px; /* Changer la taille de la police */
+  }
+  
+  /* Styles pour la balise header */
+  header {
+    background-color: #3498db; /* Changer la couleur d'arrière-plan */
+  }
+  
+  /* Styles pour la balise nav */
+  nav {
+    background-color: #2ecc71; /* Changer la couleur d'arrière-plan */
+  }
+  
+  /* Styles pour la balise main */
+  main {
+    background-color: #e74c3c; /* Changer la couleur d'arrière-plan */
+    font-size: 18px; /* Changer la taille de la police */
+  }
+  
+  /* Styles pour la balise footer */
+  footer {
+    background-color: #f39c12; /* Changer la couleur d'arrière-plan */
+  }
+  
+  /* Styles pour la balise li */
+  li {
+    display: inline-block; /* Changer le mode d'affichage */
+    width: 100px; /* Changer la largeur */
+  }
+  
+  /* Styles pour la balise h1 */
+  h1 {
+    text-align: center; /* Changer l'alignement du texte */
+    font-family: 'Helvetica', sans-serif; /* Changer la famille de police */
+    color: #ffffff; /* Changer la couleur du texte */
+  }
+  
+  /* Styles pour la balise p */
+  p {
+    line-height: 1.5; /* Changer la hauteur de ligne */
+  }
+  
